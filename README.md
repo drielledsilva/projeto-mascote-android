@@ -1,2 +1,2 @@
-# Mascote do Android
+# Mascote do Android.
  
