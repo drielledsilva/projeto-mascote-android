@@ -165,11 +165,11 @@ aside > ul {
     columns: 2;
 }
 aside h3 {
-        color: white;
-        background-color: var(--cor4);
-        padding: 10px;
-        margin: -10px -10px 0px -10px;
-        border-radius: 10px 10px 0px 0px;
+    color: white;
+    background-color: var(--cor4);
+    padding: 10px;
+    margin: -10px -10px 0px -10px;
+    border-radius: 10px 10px 0px 0px;
 }
 footer {
     background-color: var(--cor5);
